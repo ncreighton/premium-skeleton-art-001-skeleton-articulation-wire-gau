@@ -1,0 +1,2 @@
+# premium-skeleton-art-001-skeleton-articulation-wire-gau
+Tired of losing track of bone weights and joint limits in your 3D skeleton rigs? The Skeleton Articulation Wire Gauge and Joint Map not only organizes every articulation point but also standardizes your wire gauges across characters.  This Notion template provides a centralized database for skeleton articulation parameters, with predefined wire gau
